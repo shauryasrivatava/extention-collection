@@ -1,0 +1,13 @@
+{
+    "name": "Hash Adblocker",
+    "version": "1.0",
+    "descripton": "block Ad",
+    "permissions": ["webRequest","webRequestBlocking","<all_urls>"],
+    "background":{
+        "scripts":["background.js"]
+    },
+    "icons":{
+
+    },
+    "manifest_version":2
+}
